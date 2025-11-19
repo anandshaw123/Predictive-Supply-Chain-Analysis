@@ -2,7 +2,7 @@
 
 # 🚚 Predictive Supply Chain Analysis – Data-Driven Optimization & Prediction
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.13.0%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RandomForest-orange)
 ![EDA](https://img.shields.io/badge/EDA-Plotly%20%7C%20Seaborn-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -41,9 +41,11 @@ By leveraging **data visualization** and **machine learning**, this project help
 |----------|------------------|
 | Data Manipulation | `pandas`, `numpy` |
 | Data Visualization | `matplotlib`, `seaborn`, `plotly.express`, `plotly.graph_objects` |
+| Feature Engineering | `Built new Features to Boost model performance` |
 | Machine Learning | `scikit-learn`, `xgboost` |
 | Preprocessing | `LabelEncoder`, `StandardScaler` |
 | Model Evaluation | `accuracy_score`, `roc_auc_score`, `classification_report`, `confusion_matrix` |
+
 
 ---
 
