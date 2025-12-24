@@ -42,7 +42,7 @@ By leveraging **data visualization** and **machine learning**, this project help
 | Data Manipulation | `pandas`, `numpy` |
 | Data Visualization | `matplotlib`, `seaborn`, `plotly.express`, `plotly.graph_objects` |
 | Feature Engineering | `Built new Features to Boost model performance` |
-| Machine Learning | `scikit-learn`, `xgboost` |
+| Machine Learning | `scikit-learn`, `xgboost`, `Hyperparameter Optimization` |
 | Preprocessing | `LabelEncoder`, `StandardScaler` |
 | Model Evaluation | `accuracy_score`, `roc_auc_score`, `classification_report`, `confusion_matrix` |
 
